@@ -1,1 +1,3 @@
 # ConflictTest
+
+sample Line
