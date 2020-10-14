@@ -1,3 +1,4 @@
 # ConflictTest
 
-sample Line<br>second line
+sample Line<br>second line<br>
+lost
