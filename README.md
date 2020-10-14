@@ -1,3 +1,3 @@
 # ConflictTest
 
-sample Line
+sample Line<br>second line
